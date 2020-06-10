@@ -1,0 +1,6 @@
+---
+:lessons:
+- :id: 6712
+  :course_id: 328
+  :canvas_url: https://learning.flatironschool.com/courses/328/pages/ruby-enumerables-practice-iterating-over-nested-hashes
+  :type: page
